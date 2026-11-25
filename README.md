@@ -1,6 +1,6 @@
 # E0.5
 
-**From Reconstructive to Future-Predictive 3D Foundations for Robotic World-Action Modeling**
+**E0.5: Scalable World-Action Modeling on 3D Foundation Models through Future Geometry Prediction and Backbone Mixtures**
 
 **X-Era AI Lab**
 
